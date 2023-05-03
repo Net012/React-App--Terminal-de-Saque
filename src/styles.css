@@ -1,0 +1,19 @@
+.img{
+    background-image: url("./images/main.png");
+    background-size: cover;
+}
+
+.main{
+    margin: 0 auto;
+}
+
+.inline-list {
+    display: inline;
+    margin-right: 10px;
+}
+
+.listaInvalidos{
+    margin-bottom: 0px;
+    padding-left: 0px;
+    margin-left: 12px;
+}
